@@ -38,6 +38,7 @@
 | 날짜 | 제목 |
 | --- | --- |
 | 2021.07.22 | [REST API 설계 시 Request에 대한 Response 처리](REST%20API/Request에-대한-Response-처리.md) |
+| 2021.07.19 | [REST API와 HTTP Method](REST%20API/REST-API와-HTTP-Method.md) |
 
 ### JavaScript
 
