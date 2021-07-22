@@ -5,8 +5,8 @@
 - Commit message에 이름이나 날짜 같은 불필요한 정보 넣지 말기
 
   ```
-  [210714] add log 		// 날짜 불필요
-  [IKCHOI] add login 	// 이름 불필요
+  [210714] add log   // 날짜 불필요
+  [IKCHOI] add login // 이름 불필요
   ...
   ```
 
