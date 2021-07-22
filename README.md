@@ -32,10 +32,11 @@
 | 날짜 | 제목 |
 | --- | --- |
 
-### REST API
+### REST API [📁](REST%20API)
 
 | 날짜 | 제목 |
 | --- | --- |
+| 2021.07.22 | [REST API 설계 시 Request에 대한 Response 처리](REST%20API/Request에-대한-Response-처리.md) |
 
 ### JavaScript
 
