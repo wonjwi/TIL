@@ -23,7 +23,7 @@
   {
   	"result": true,
   	"data": {
-  		"title": "sample"
+  		"title": "sample",
   		"content": "Hello World"
   	}
   }
@@ -56,7 +56,7 @@
   
   body :
   {
-  	"title": "sample"
+  	"title": "sample",
   	"content": "Hello World"
   }
   ```
